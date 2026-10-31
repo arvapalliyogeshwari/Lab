@@ -9,7 +9,7 @@
 - **Lab Number:** 02
 
 ## Live Deployment
-
+https://lab-02-qzaj.onrender.com
 
 ## Objective
 
